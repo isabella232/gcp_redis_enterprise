@@ -83,6 +83,6 @@ Once you've completed this overall workshop, feel free to reconfigure the databa
 
 #### Bonus Content
 
-My colleague has recorded a short video which covers this whole flow described above. <a href="https://www.youtube.com/watch?v=DNktof9zeYk&feature=youtu.be" target="_blank">Launch on Youtube</a>.
+My colleague has recorded a short video which covers this whole flow described above. <a href="https://www.youtube.com/watch?v=9tP547Lzx6c&feature=youtu.be" target="_blank">Launch on Youtube</a>.
 
 
