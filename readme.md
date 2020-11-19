@@ -73,9 +73,9 @@
     <img alt="Details of firstdb" src="images/db-details.png" width=350/>
 
 13. Start to use your Redis Enterprise database in Google Cloud! Here are some sample resources to help get you started:
-    * asdf
-    * asdf
-    * asdf
+    * #todo
+    * #todo
+    * #todo
 
 ## Optional Steps 
 Once you've completed this overall workshop, feel free to reconfigure the database's capability with the following:
@@ -85,4 +85,9 @@ Once you've completed this overall workshop, feel free to reconfigure the databa
 3. [Securing your database with VPC Peering and/or CIDR Whitelist](https://docs.redislabs.com/latest/rv/administration/configuration/securing-your-database/)
 
 #### Bonus Content
+
+#todo add redisearch qwiklab link
+
 My colleague has recorded a short video which covers this whole flow described above. <a href="https://www.youtube.com/watch?v=DNktof9zeYk&feature=youtu.be" target="_blank">Launch on Youtube</a>.
+
+
