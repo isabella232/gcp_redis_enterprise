@@ -6,7 +6,7 @@
 2. Ensure your account has the following priviledges (as required):
 
 | Step |  Role or Permisions Required |
-| --- | --- | --- |
+| --- | --- |
 Purchasing our service | `billing.admin` or `billing.owner` 
 Enabling a service | `project.editor` role or `serviceusage.services.enable` 
 View Existing Service | `serviceusage.serviceUsageViewer` and `redisenterprisecloud.viewer`
