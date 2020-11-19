@@ -75,6 +75,7 @@
 13. Start to use your Redis Enterprise database in Google Cloud! Here are some sample resources to help get you started:
     * <a href="https://google.qwiklabs.com/focuses/14763?parent=catalog&qlcampaign=1m-gtpN1-63#utm_source=linkedin&utm_medium=social&utm_campaign=redis5" target="_blank"> Redisearch 2.0 tutorial on Qwiklabs</a> (1hr): Learn how to use Redis with Query while building a movie database.
     * <a href="https://university.redislabs.com" target="_blank">Redis University</a>: Learn more about Redis in your language of choice in several self-paced courses. Certification is also available!
+    * <a href="https://cloud.google.com/solutions/using-memorystore-for-redis-as-a-leaderboard" target="_blank">Build a Gaming Leaderboard with Redis in Kubernetes</a>. From the Google Cloud Solution library. Substitute in your new Redis Enterprise database `Private Endpoint` as the Redis host and port.
 
 ## Optional Steps 
 Once you've completed this overall workshop, feel free to reconfigure the database's capability with the following:
