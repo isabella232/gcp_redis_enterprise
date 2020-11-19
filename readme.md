@@ -55,11 +55,11 @@
 9.  Redis Labs is deploying your Redis Enterprise Cluster. Please wait a few moments.
 
     
-    <img alt="Please wait while we deploy your cluster" src="images/deploying.png" width=300/>   
+    <img alt="Please wait while we deploy your cluster" src="images/deploying.png" width=400/>   
 
 10. Return to the Subscription screen to view the progress of the Cluster creation. Sandwich menu -> Subscriptions. 
     
-    <img alt="sandwich menu" src="images/sm_sandwich.png" width=300/>
+    <img alt="sandwich menu" src="images/sm_sandwich.png" width=400/>
      
     This takes 5 or so minutes to complete. Wait for the Green checkbox to proceed.
     <img alt="Subscription Pending" src="images/sub-pending.png" width=500/>  
@@ -73,9 +73,8 @@
     <img alt="Details of firstdb" src="images/db-details.png" width=350/>
 
 13. Start to use your Redis Enterprise database in Google Cloud! Here are some sample resources to help get you started:
-    * #todo
-    * #todo
-    * #todo
+    * <a href="https://google.qwiklabs.com/focuses/14763?parent=catalog&qlcampaign=1m-gtpN1-63#utm_source=linkedin&utm_medium=social&utm_campaign=redis5" target="_blank"> Redisearch 2.0 tutorial on Qwiklabs</a> (1hr): Learn how to use Redis with Query while building a movie database.
+    * <a href="https://university.redislabs.com" target="_blank">Redis University</a>: Learn more about Redis in your language of choice in several self-paced courses. Certification is also available!
 
 ## Optional Steps 
 Once you've completed this overall workshop, feel free to reconfigure the database's capability with the following:
@@ -85,8 +84,6 @@ Once you've completed this overall workshop, feel free to reconfigure the databa
 3. [Securing your database with VPC Peering and/or CIDR Whitelist](https://docs.redislabs.com/latest/rv/administration/configuration/securing-your-database/)
 
 #### Bonus Content
-
-#todo add redisearch qwiklab link
 
 My colleague has recorded a short video which covers this whole flow described above. <a href="https://www.youtube.com/watch?v=DNktof9zeYk&feature=youtu.be" target="_blank">Launch on Youtube</a>.
 
