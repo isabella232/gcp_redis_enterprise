@@ -2,19 +2,18 @@
 
 ## Prerequisites
 
-1. Enable the APIs in your project:
-   1. #todo
-2. Ensure your account has the following priviledges:
+1. Enable the APIs in your project: `gcp.redisenterprise.com`
+2. Ensure your account has the following priviledges (as required):
 
-* Purchasing our service:
-  * `billing.admin` or `billing.owner`
-* Enabling a service:
-  * `project.editor` role or `serviceusage.services.enable` permissions
-* Service has already been purchased and enabled:
-  * Viewer: 
-    * `serviceusage.serviceUsageViewer` and `redisenterprisecloud.viewer`
-  * Admin: 
-    * `serviceusage.serviceUsageViewer` and `redisenterprisecloud.admin`
+| Step |  Role or Permisions Required |
+| --- | --- | --- |
+Purchasing our service | `billing.admin` or `billing.owner` 
+Enabling a service | `project.editor` role or `serviceusage.services.enable` 
+View Existing Service | `serviceusage.serviceUsageViewer` and `redisenterprisecloud.viewer`
+Administer Existing Service | `serviceusage.serviceUsageViewer` and `redisenterprisecloud.admin`
+
+
+
 
 ## Follow these steps
 1. Log in to your Google Cloud Console https://console.cloud.google.com/
@@ -46,10 +45,8 @@
     <img alt="Review DB details" src="images/twodbs.png" width=500/> 
 7. Redis Enterprise will now chose the optimal cloud infrastructure on which to run these two Redis Enterprise Databases while meeting the communicated SLA and performance criteria.
    
-    <img alt="Please wait while we plan the optimized infrastructure" src="images/optimizing-infra.png" width=300/>  
+    <img alt="Please wait while we plan the optimized infrastructure" src="images/optimizing-infra.png" width=400/>  
 8.  Review the planned infrastructure resulting from your desired configuration. Please click Continue to continue to deploy your Redis Enterprise Cluster.
-
-* #todo replace this with gcp specific screenshot
 
     <img alt="Review configuration details" src="images/create-sub.png" width=500 /> 
 9.  Redis Labs is deploying your Redis Enterprise Cluster. Please wait a few moments.
