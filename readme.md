@@ -22,7 +22,7 @@ Administer Existing Service | `serviceusage.serviceUsageViewer` and `redisenterp
     <img alt="Open Redis Enterprise from the Partner solutions menu" src="images/sandwich.png" width=200/>
 
 
-3. If this is your first time launching this then you will see "Purchase" in the place of "Manager on Provider" below. It's OK to click purchase as it will not charge you anything at that time. You will only be charged after you provision databases within a subscription. Now click "Manager on Provider".
+3. If this is your first time launching this then you will see "Purchase" in the place of "Manager on Provider" below. It's OK to click purchase as it will not charge you anything at that time (`billing.admin` or `billing.owner` permissions required). You will only be charged after you provision databases within a subscription. Now click "Manager on Provider".
        
     <img alt="Purchase or Manage on Provider" src="images/purchase.png" width=400/>
 
