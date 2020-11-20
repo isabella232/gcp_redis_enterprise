@@ -1,6 +1,6 @@
 # Get Started with Redis Enterprise in Google Cloud
 
-This doc explains how to get a Redis Enterprise database up and running from your Google Cloud Console using the Marketplace integration. For more details on Redis Enterprise via the GCP Marketplace visit <a href="https://redislabs.com/cloud-partners/google/" target="_blank">here</a>. For more details on Redis Enterprise in general, visit <a href=https://redislabs.com/redis-enterprise-cloud/overview/" target="_blank">here</a. 
+This doc explains how to get a Redis Enterprise database up and running from your Google Cloud Console using the Marketplace integration. For more details on Redis Enterprise via the GCP Marketplace visit <a href="https://redislabs.com/cloud-partners/google/" target="_blank">here</a>. For more details on Redis Enterprise in general, visit <a href="https://redislabs.com/redis-enterprise-cloud/overview/" target="_blank">here</a>. 
 
 ## Prerequisites
 
