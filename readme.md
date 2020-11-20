@@ -4,7 +4,7 @@ This doc explains how to get a Redis Enterprise database up and running from you
 
 ## Prerequisites
 
-1. Enable the APIs in your project: `gcp.redisenterprise.com`
+1. Enable the following API in your project: `gcp.redisenterprise.com`
 2. Ensure your account has the following priviledges (as required):
 
 | Step |  Role or Permisions Required |
@@ -26,6 +26,7 @@ Administer Existing Service | `serviceusage.serviceUsageViewer` and `redisenterp
     <img alt="You will be leaving the GCP console" src="images/leaving.png" width=400/>
    
 4. Chose a name for your subscription, which region you would like it in, whether you want it to be highly-available in Multiple Availability Zones (Multi-AZ), chose a CIDR such as 10.100.0.0/16. 
+
     <img alt="Enter your options for your Redis Enterprise Cloud Pro subscription" src="images/cloud-pro-2.png" width=500/>
 5. Configure your first Redis database for this subscription. 
    * Select an appropriate `memory limit`. This option can be changed on the fly.
